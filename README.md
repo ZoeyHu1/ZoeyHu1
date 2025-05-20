@@ -14,7 +14,7 @@ I'm a graduate student in Applied Data Science at UChicago, with a background in
 - Deep Learning and Neural Networks
 
 ### 🌟 Projects
-- **Healthcare Analytics**: Analyzed patient data to identify trends in healthcare outcomes, using statistical modeling and visualizations.
+- **Healthcare Analytics**: Analyzed patient data to optimize Value-Based Care(VBC) in primary care, using casual Inference and statistical models.
 - **Public Transportation Optimization**: Developed data models to improve route efficiency in collaboration with a tech company and local government.
 - **Predictive Modeling for Sales Forecasting**: Built time series models to forecast sales for retail datasets, achieving a high accuracy rate.
 
@@ -26,3 +26,4 @@ I'm a graduate student in Applied Data Science at UChicago, with a background in
 ### 📫 How to Reach Me
 - **LinkedIn**: [[Ziyi Hu]](https://www.linkedin.com/in/ziyi-hu-472135269/)
 - **Email**: zoeyhuzy@gmail.com
+
